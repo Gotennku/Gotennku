@@ -2,8 +2,6 @@
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
 
-<!-- # Repo Dashboard -->
-
 # Hi, I'm Patrick Saint-Laurent 👋
 
 I am currently a second-year student at Epitech, passionate about software development and technological innovation. Welcome to my GitHub profile where I share my projects, open-source contributions, and experiments.
