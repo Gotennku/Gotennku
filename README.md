@@ -3,7 +3,7 @@
 
   # 👋 Hi, I'm Patrick Saint-Laurent
 
-  ### Full-Stack Developer | Founder & CEO @ Saint-Laurent IT Solutions | Student at EPITECH
+  ### Full-Stack Developer | Student at EPITECH
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patrick-saint-laurent)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gotennku)
@@ -17,40 +17,12 @@
 
 ## 🚀 About Me
 
-Full-Stack Developer passionate about technological innovation and artificial intelligence, currently in 2nd year at **EPITECH**. I combine solid technical expertise with an entrepreneurial vision, having founded **Saint-Laurent IT Solutions** to help entrepreneurs and SMEs digitalize their activities.
+Full-Stack Developer passionate about technological innovation and artificial intelligence, currently in 2nd year at **EPITECH**.
 
-- 🔭 **Currently**: Full-Stack Developer Intern @ **USTS - Innovative Web Agency**
-- 💼 **Founder & CEO** @ **Saint-Laurent IT Solutions** (since January 2025)
+- 🔭 **Currently**: Full-Stack Developer Intern
 - 🌱 **Currently learning**: Rust, Advanced Generative AI Architecture, Multi-agent Orchestration
 - 🎯 **Areas of expertise**: Full-Stack Development, AI & Machine Learning, SaaS, Automation
-- 💡 **Passions**: AI Super Agents, Digital Transformation, Clean Architecture
-
----
-
-## 💼 Professional Experience
-
-### 🏢 **USTS - Innovative Web Agency** | Full-Stack Developer Intern
-📅 September 2025 - Present | 📍 Paris, France
-
-- Development of custom web applications with **Next.js, React, TypeScript**
-- Participation in the development of **USTS CMS framework**
-- Creation of **AI super agents** to automate business processes
-- **Agile** methodology in multidisciplinary team
-
-### 💻 **Saint-Laurent IT Solutions** | Founder & CEO
-📅 January 2025 - Present | 📍 Paris, France
-
-- Creation of a company specialized in custom web development
-- Design of **end-to-end** digital solutions for entrepreneurs and SMEs
-- Stack: **React, Next.js, TypeScript, Tailwind CSS, Supabase, Stripe**
-- Integration of **AI super agents** and deployment on **Vercel**
-
-### 🌐 **Eloken** | Web Developer Intern
-📅 September 2024 - December 2024 | 📍 Paris, France
-
-- Front-end development with **React** and API integration
-- User interface redesign and UX optimization
-- Code reviews and collaboration with senior developers
+- 💡 **Passions**: AI Super Agents, Clean Architecture
 
 ---
 
@@ -100,44 +72,8 @@ Full-Stack Developer passionate about technological innovation and artificial in
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🛠️ Tools & Methodologies
-- **Tools**: VS Code, Postman, Figma, Notion, Jira, Stripe API, Google Analytics, SolidWorks, CATIA
+- **Tools**: VS Code, Postman, Figma, Git, Docker
 - **Methodologies**: Agile (Scrum, Kanban), TDD, Clean Code, Code Review, Pair Programming
-
----
-
-## 🎓 Education
-
-### 🏫 **EPITECH - School of Computer Science Excellence**
-📅 Sept 2023 - Jul 2025 (expected) | 📍 Paris, France
-**Grande École Program (Bachelor's degree in progress)**
-
-- Intensive project-based learning, peer-to-peer, intensive bootcamps (C, C++ & Paradigms)
-- Projects: Navy, my_runner, file manipulation, memory management
-- Technologies: C, C++, Python, JavaScript, Makefile, Git, Linux, debugging (Valgrind, GDB)
-
-### 🏫 **Lycée Voillaume**
-📅 2019 - 2022 | 📍 Aulnay-sous-Bois
-**BTS Industrial Product Design**
-
-- Training in technical design and CAD (SolidWorks, CATIA)
-- Development of technical rigor and complex problem solving
-
----
-
-## 🌍 Languages
-
-- 🇫🇷 **French**: Native
-- 🇬🇧 **English**: Fluent (C1 - Full Professional Proficiency)
-- 🇮🇹 **Italian**: Intermediate (B1 - Professional Working)
-- 🇪🇸 **Spanish**: Elementary (A2)
-- 🇫🇮 **Finnish**: Elementary (A1)
-
----
-
-## 🤝 Soft Skills
-
-💡 Analytical Thinking | 🤝 Collaboration | 🔄 Adaptability | 💬 Communication | 👥 Teamwork
-🚀 Autonomy | 🎨 Creativity | 🔧 Problem Solving | 📚 Continuous Learning | 🎯 Leadership
 
 ---
 
@@ -161,11 +97,5 @@ Full-Stack Developer passionate about technological innovation and artificial in
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Patrick_Saint--Laurent-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patrick-saint-laurent)
   [![Email](https://img.shields.io/badge/Email-patrick.saintlaurent@icloud.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrick.saintlaurent@icloud.com)
-
-  ---
-
-  ### 💼 Open to internship, freelance and collaboration opportunities!
-
-  *Feel free to contact me to discuss projects, opportunities or simply exchange about tech!*
 
 </div>
