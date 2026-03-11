@@ -3,7 +3,7 @@
 
   # 👋 Hi, I'm Patrick Saint-Laurent
 
-  ### Full-Stack Developer | Student at EPITECH
+  ### Full-Stack Developer | 3rd Year Student at EPITECH
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/patrick-saint-laurent)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gotennku)
@@ -17,12 +17,12 @@
 
 ## 🚀 About Me
 
-Full-Stack Developer passionate about technological innovation and artificial intelligence, currently in 2nd year at **EPITECH**.
+Full-Stack Developer passionate about technological innovation and artificial intelligence, currently in 3rd year at **EPITECH**.
 
-- 🔭 **Currently**: Full-Stack Developer Intern
+- 🔭 **Currently**: Full-Stack Developer | Freelance & Personal Projects
 - 🌱 **Currently learning**: Rust, Advanced Generative AI Architecture, Multi-agent Orchestration
-- 🎯 **Areas of expertise**: Full-Stack Development, AI & Machine Learning, SaaS, Automation
-- 💡 **Passions**: AI Super Agents, Clean Architecture
+- 🎯 **Areas of expertise**: Full-Stack Development, AI & Machine Learning, SaaS, Automation, Desktop Apps
+- 💡 **Passions**: AI Super Agents, Clean Architecture, Developer Tools
 
 ---
 
@@ -43,21 +43,28 @@ Full-Stack Developer passionate about technological innovation and artificial in
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
 ### 🤖 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-**Expertise**: Advanced LLMs, RAG (Retrieval-Augmented Generation), AI Super Agents, Prompt Engineering, Fine-tuning, Multi-agent Orchestration, Computer Vision (CNN, Object Detection), NLP, Vector Databases (ChromaDB, Pinecone)
+**Expertise**: Advanced LLMs, RAG (Retrieval-Augmented Generation), AI Super Agents, Prompt Engineering, Fine-tuning, Multi-agent Orchestration, Computer Vision (CNN, Object Detection), NLP, Vector Databases (ChromaDB, Pinecone), OpenAI API Integration
 
 ### 🗄️ Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -72,8 +79,23 @@ Full-Stack Developer passionate about technological innovation and artificial in
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ### 🛠️ Tools & Methodologies
-- **Tools**: VS Code, Postman, Figma, Git, Docker
+- **Tools**: VS Code, Postman, Figma, Git, Docker, n8n
+- **State Management**: Zustand
+- **Data Visualization**: Recharts
 - **Methodologies**: Agile (Scrum, Kanban), TDD, Clean Code, Code Review, Pair Programming
+
+---
+
+## �️ Featured Projects
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [fendia-conciergerie](https://github.com/Gotennku/fendia-conciergerie) | Website for a concierge service | Next.js 16, React 19, shadcn/ui, Tailwind v4, Framer Motion |
+| [Smart PDF Chat](https://github.com/Gotennku/-Smart-PDF-Chat) | Desktop app to chat with PDF documents | Electron, React, OpenAI, TypeScript |
+| [Expense Tracker Pro](https://github.com/Gotennku/Expense-Tracker-Pro) | AI-powered expense manager with budget analytics | Electron, React, OpenAI, SQLite, Recharts |
+| [Focus Flow](https://github.com/Gotennku/Focus_flow) | AI-enhanced Pomodoro timer with site blocking | Electron, React, TypeScript, SQLite |
+| [Typing Speed RPG](https://github.com/Gotennku/Typing-Speed-RPG) | Gamified typing trainer — fight monsters by typing | TypeScript |
+| [Webmail n8n Automation](https://github.com/Gotennku/webmail-n8n-automation) | Webmail automation workflows with n8n | TypeScript, n8n |
 
 ---
 
@@ -85,7 +107,7 @@ Full-Stack Developer passionate about technological innovation and artificial in
 
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gotennku&layout=compact&theme=radical)
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gotennku&theme=radical)
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=Gotennku&theme=radical)
 
 </div>
 
