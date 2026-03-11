@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/github-metrics.svg" alt="Metrics">
 
-  # 👋 Hi, I'm Patrick Saint-Laurent
+  # Hi, I'm Patrick Saint-Laurent
 
   ### Full-Stack Developer | 3rd Year Student at EPITECH
 
@@ -9,26 +9,26 @@
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gotennku)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:patrick.saintlaurent@icloud.com)
 
-  📍 Paris, France
+  Paris, France
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Full-Stack Developer passionate about technological innovation and artificial intelligence, currently in 3rd year at **EPITECH**.
 
-- 🔭 **Currently**: Full-Stack Developer | Freelance & Personal Projects
-- 🌱 **Currently learning**: Rust, Advanced Generative AI Architecture, Multi-agent Orchestration
-- 🎯 **Areas of expertise**: Full-Stack Development, AI & Machine Learning, SaaS, Automation, Desktop Apps
-- 💡 **Passions**: AI Super Agents, Clean Architecture, Developer Tools
+- **Currently**: Full-Stack Developer | Freelance & Personal Projects
+- **Currently learning**: Rust, Advanced Generative AI Architecture, Multi-agent Orchestration
+- **Areas of expertise**: Full-Stack Development, AI & Machine Learning, SaaS, Automation, Desktop Apps
+- **Passions**: AI Super Agents, Clean Architecture, Developer Tools
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -37,7 +37,7 @@ Full-Stack Developer passionate about technological innovation and artificial in
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
-### 🚀 Frameworks & Technologies
+### Frameworks & Technologies
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
@@ -51,7 +51,7 @@ Full-Stack Developer passionate about technological innovation and artificial in
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-### 🤖 AI & Machine Learning
+### AI & Machine Learning
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
@@ -60,7 +60,7 @@ Full-Stack Developer passionate about technological innovation and artificial in
 
 **Expertise**: Advanced LLMs, RAG (Retrieval-Augmented Generation), AI Super Agents, Prompt Engineering, Fine-tuning, Multi-agent Orchestration, Computer Vision (CNN, Object Detection), NLP, Vector Databases (ChromaDB, Pinecone), OpenAI API Integration
 
-### 🗄️ Databases
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -69,7 +69,7 @@ Full-Stack Developer passionate about technological innovation and artificial in
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
@@ -78,7 +78,7 @@ Full-Stack Developer passionate about technological innovation and artificial in
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
-### 🛠️ Tools & Methodologies
+### Tools & Methodologies
 - **Tools**: VS Code, Postman, Figma, Git, Docker, n8n
 - **State Management**: Zustand
 - **Data Visualization**: Recharts
@@ -86,20 +86,8 @@ Full-Stack Developer passionate about technological innovation and artificial in
 
 ---
 
-## �️ Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [fendia-conciergerie](https://github.com/Gotennku/fendia-conciergerie) | Website for a concierge service | Next.js 16, React 19, shadcn/ui, Tailwind v4, Framer Motion |
-| [Smart PDF Chat](https://github.com/Gotennku/-Smart-PDF-Chat) | Desktop app to chat with PDF documents | Electron, React, OpenAI, TypeScript |
-| [Expense Tracker Pro](https://github.com/Gotennku/Expense-Tracker-Pro) | AI-powered expense manager with budget analytics | Electron, React, OpenAI, SQLite, Recharts |
-| [Focus Flow](https://github.com/Gotennku/Focus_flow) | AI-enhanced Pomodoro timer with site blocking | Electron, React, TypeScript, SQLite |
-| [Typing Speed RPG](https://github.com/Gotennku/Typing-Speed-RPG) | Gamified typing trainer — fight monsters by typing | TypeScript |
-| [Webmail n8n Automation](https://github.com/Gotennku/webmail-n8n-automation) | Webmail automation workflows with n8n | TypeScript, n8n |
-
----
-
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -113,7 +101,7 @@ Full-Stack Developer passionate about technological innovation and artificial in
 
 ---
 
-## 📫 Contact Me
+## Contact Me
 
 <div align="center">
 
